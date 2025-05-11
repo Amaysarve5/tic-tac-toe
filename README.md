@@ -10,4 +10,4 @@ A simple **Tic-Tac-Toe** game built using HTML, CSS, and JavaScript.
 ## Installation ⚡
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/Amaysarve5/tic-tac-toe.git
